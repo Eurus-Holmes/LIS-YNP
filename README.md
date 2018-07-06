@@ -10,4 +10,16 @@ it is recommended to finish [Official Pytorch Tutorial](http://pytorch.org/tutor
 
 <br/>
 
+## Get Started
+My preferences:<br>
+MacOS,<br>
+pip,<br>
+python3.6,<br>
+CUDA None.<br>
+Then run the PyTorch install command: <br>
+`pip3 install torch torchvision`
+
+<br/>
+--------------------------------------------------------------------------------
+
 ## Table of Contents
