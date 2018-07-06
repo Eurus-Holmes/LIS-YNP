@@ -20,6 +20,7 @@ Then run the PyTorch install command: <br>
 `pip3 install torch torchvision`
 
 <br/>
---------------------------------------------------------------------------------
 
 ## Table of Contents
+
+#### 1. Basics
