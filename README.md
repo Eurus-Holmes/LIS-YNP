@@ -24,4 +24,4 @@ Then run the PyTorch install command: <br>
 ## Table of Contents
 
 #### 1. Basics
-* [PyTorch Basics]
+* [Numpy or Torch](https://github.com/Eurus-Holmes/PyTorch_Learning/blob/master/example1.py)
