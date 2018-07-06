@@ -24,3 +24,4 @@ Then run the PyTorch install command: <br>
 ## Table of Contents
 
 #### 1. Basics
+* [PyTorch Basics]
