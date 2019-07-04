@@ -41,6 +41,8 @@ All in all, Life Is Short, You Need Pytorch:yum:.
 * [Variational Auto-Encoder](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/variational_autoencoder/main.py#L38-L65)
 * [Neural Style Transfer](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/03-advanced/neural_style_transfer)
 * [Image Captioning (CNN-RNN)](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/03-advanced/image_captioning)
+* [NMT (Seq2Seq+Attention)](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/nmt/seq2seq_attention_nmt.ipynb)
+
 
 ### 4. Utilities
 * [TensorBoard in PyTorch](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/04-utils/tensorboard)
