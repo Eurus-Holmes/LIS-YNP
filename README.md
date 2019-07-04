@@ -37,8 +37,8 @@ This repository provides tutorial code for deep learning researchers to learn [P
 
 ## Getting Started
 ```bash
-$ git clone https://github.com/yunjey/pytorch-tutorial.git
-$ cd pytorch-tutorial/tutorials/PATH_TO_PROJECT
+$ git clone https://github.com/Eurus-Holmes/LIS-YNP.git
+$ cd LIS-YNP/tutorials/PATH_TO_PROJECT
 $ python main.py
 ```
 
