@@ -8,7 +8,7 @@ Based on [Official Pytorch Tutorial](https://pytorch.org/tutorials/) and [yunjey
 
 There is also a [PyTorch tutorial](https://github.com/spro/practical-pytorch) demonstrating modern techniques with readable code :ghost:.
 
-If you are looking for some fun projects including neural talk, neural style, poem writing, anime generation and so on, you can read [pytorch-book](https://github.com/chenyuntc/pytorch-book).
+If you are looking for some fun projects including neural talk, neural style, poem writing, anime generation and so on, you can read [pytorch-book](https://github.com/chenyuntc/pytorch-book) :squirrel:.
 
 Of course, anything on github has its own "Awesome" :satisfied:. The [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) collected different models, implementations, helper libraries, tutorials etc.
 
