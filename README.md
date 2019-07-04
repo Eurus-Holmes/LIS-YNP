@@ -2,6 +2,10 @@
 
 Based on [Official Pytorch Tutorial](https://pytorch.org/tutorials/) and [yunjey's pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial), this repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). 
 
+There is a [PyTorch tutorial](https://github.com/spro/practical-pytorch) demonstrating modern techniques with readable code.
+
+If you want to see PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation
+
 There is also a [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 
 
