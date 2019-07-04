@@ -29,6 +29,7 @@ All in all, Life Is Short, You Need Pytorch:yum:.
 * [Neural Networks](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/01-basics/Neural_Networks.ipynb)
 
 ### 2. Intermediate
+* [Training a Classifier](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/02-intermediate/Training_a_Classifier.ipynb)
 * [Convolutional Neural Network](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/02-intermediate/convolutional_neural_network/main.py#L35-L56)
 * [Deep Residual Network](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/02-intermediate/deep_residual_network/main.py#L76-L113)
 * [Recurrent Neural Network](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/02-intermediate/recurrent_neural_network/main.py#L39-L58)
