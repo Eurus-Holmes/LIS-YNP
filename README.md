@@ -54,4 +54,4 @@ $ python main.py
 
 
 ## References
-Yunjey Choi/ [@yunjey](https://github.com/yunjey)
+  - [yunjey's pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
