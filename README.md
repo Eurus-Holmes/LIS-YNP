@@ -54,4 +54,5 @@ $ python main.py
 
 
 ## References
-  - [yunjey's pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+  - [[1]. pytorch-tutorial, by yunjey](https://github.com/yunjey/pytorch-tutorial)
+  - [[2]. Awesome-pytorch-list, by bharathgs](https://github.com/bharathgs/Awesome-pytorch-list)
