@@ -26,6 +26,7 @@ All in all, Life Is Short, You Need Pytorch:yum:.
 * [Linear Regression](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/01-basics/linear_regression/main.py#L22-L23)
 * [Logistic Regression](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/01-basics/logistic_regression/main.py#L33-L34)
 * [Feedforward Neural Network](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/01-basics/feedforward_neural_network/main.py#L37-L49)
+* [Neural Networks](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/01-basics/Neural_Networks.ipynb)
 
 ### 2. Intermediate
 * [Convolutional Neural Network](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/02-intermediate/convolutional_neural_network/main.py#L35-L56)
