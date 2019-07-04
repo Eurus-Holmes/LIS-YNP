@@ -5,9 +5,8 @@
 ![prs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 
+<br/>
 
-
-----
 # Introduction
 
 Based on [Official Pytorch Tutorial](https://pytorch.org/tutorials/) and [yunjey's pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial), this repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). 
