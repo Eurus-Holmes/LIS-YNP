@@ -53,5 +53,5 @@ $ python main.py
 <br/>
 
 
-## Author
-Feiyang Chen/ [@Eurus-Holmes](https://github.com/Eurus-Holmes)
+## Acknowledgements
+Yunjey Choi/ [@yunjey](https://github.com/yunjey)
