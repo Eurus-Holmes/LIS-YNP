@@ -1,6 +1,7 @@
 # LIS-YNP (Life Is Short-You Need Pytorch)
 
 ![build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
 
 
