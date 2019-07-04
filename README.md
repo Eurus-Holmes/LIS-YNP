@@ -20,6 +20,7 @@ All in all, Life Is Short, You Need Pytorch:yum:.
 # Table of Contents
 
 ### 1. Basics
+* [Quick Start](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/01-basics/quickstart.ipynb)
 * [PyTorch Basics](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/01-basics/pytorch_basics/main.py)
 * [Linear Regression](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/01-basics/linear_regression/main.py#L22-L23)
 * [Logistic Regression](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/01-basics/logistic_regression/main.py#L33-L34)
