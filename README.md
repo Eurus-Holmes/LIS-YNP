@@ -53,5 +53,5 @@ $ python main.py
 <br/>
 
 
-## Acknowledgements
+## References
 Yunjey Choi/ [@yunjey](https://github.com/yunjey)
