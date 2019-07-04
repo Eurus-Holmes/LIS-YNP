@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-Based on [yunjey's pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial), this repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). 
+Based on [Official Pytorch Tutorial](https://pytorch.org/tutorials/) and [yunjey's pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial), this repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). There is also a comprehensive [list](https://github.com/bharathgs/Awesome-pytorch-list) of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 
 
 <br/>
@@ -35,24 +35,4 @@ Based on [yunjey's pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
 
 <br/>
 
-## Getting Started
-```bash
-$ git clone https://github.com/Eurus-Holmes/LIS-YNP.git
-$ cd LIS-YNP/tutorials/PATH_TO_PROJECT
-$ python main.py
-```
 
-<br/>
-
-## Dependencies
-* [Python 2.7 or 3.5+](https://www.continuum.io/downloads)
-* [PyTorch 0.4.0+](http://pytorch.org/)
-
-
-
-<br/>
-
-
-## References
-  - [[1]. pytorch-tutorial, by yunjey](https://github.com/yunjey/pytorch-tutorial)
-  - [[2]. Awesome-pytorch-list, by bharathgs](https://github.com/bharathgs/Awesome-pytorch-list)
