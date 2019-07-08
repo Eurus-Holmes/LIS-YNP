@@ -39,6 +39,7 @@ All in all, ***Life Is Short, You Need Pytorch*** :innocent:.
 
 ### 3. Advanced
 * [Chatbot](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/chatbot/chatbot_tutorial.ipynb)
+* [Finetuning Torchvision Models](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/finetuning_torchvision_models/finetuning_torchvision_models_tutorial.ipynb)
 * [Generative Adversarial Networks](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/generative_adversarial_network/main.py#L41-L57)
 * [Image Captioning (CNN-RNN)](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/03-advanced/image_captioning)
 * [Neural Style Transfer](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/03-advanced/neural_style_transfer)
