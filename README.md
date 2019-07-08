@@ -38,17 +38,19 @@ All in all, ***Life Is Short, You Need Pytorch*** :innocent:.
 * [Language Model (RNN-LM)](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/02-intermediate/language_model/main.py#L30-L50)
 
 ### 3. Advanced
+* [Chatbot](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/chatbot/chatbot_tutorial.ipynb)
 * [Generative Adversarial Networks](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/generative_adversarial_network/main.py#L41-L57)
-* [Variational Auto-Encoder](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/variational_autoencoder/main.py#L38-L65)
-* [Neural Style Transfer](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/03-advanced/neural_style_transfer)
 * [Image Captioning (CNN-RNN)](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/03-advanced/image_captioning)
+* [Neural Style Transfer](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/03-advanced/neural_style_transfer)
 * [NMT (Seq2Seq+Attention)](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/nmt/seq2seq_attention_nmt.ipynb)
 * [Spatial Transformer Networks](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/spatial_transformer_network/spatial_transformer_tutorial.ipynb)
-* [Chatbot](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/chatbot/chatbot_tutorial.ipynb)
+* [Variational Auto-Encoder](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/variational_autoencoder/main.py#L38-L65)
+
+
 
 ### 4. Utilities
+* [OpCounter](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/04-utils/OpCounter)
 * [TensorBoard in PyTorch](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/04-utils/tensorboard)
-* [OpCounter](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/04-utils/OpCounter/README.md)
 * [TensorWatch](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/04-utils/tensorwatch)
 
 
