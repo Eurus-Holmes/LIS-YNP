@@ -43,6 +43,7 @@ All in all, ***Life Is Short, You Need Pytorch*** :innocent:.
 * [Image Captioning (CNN-RNN)](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/03-advanced/image_captioning)
 * [Neural Style Transfer](https://github.com/Eurus-Holmes/LIS-YNP/tree/master/tutorials/03-advanced/neural_style_transfer)
 * [NMT (Seq2Seq+Attention)](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/nmt/seq2seq_attention_nmt.ipynb)
+* [Object Detection Finetuning](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/object_detection_finetuning/torchvision_finetuning_instance_segmentation.py)
 * [Spatial Transformer Networks](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/spatial_transformer_network/spatial_transformer_tutorial.ipynb)
 * [Variational Auto-Encoder](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/tutorials/03-advanced/variational_autoencoder/main.py#L38-L65)
 
