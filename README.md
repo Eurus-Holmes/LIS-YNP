@@ -58,6 +58,8 @@ All in all, ***Life Is Short, You Need Pytorch*** :innocent:.
 
 
 
-<br/>
+# License
+
+See the [LICENSE](https://github.com/Eurus-Holmes/LIS-YNP/blob/master/LICENSE) file for this repository's licensing.
 
 
